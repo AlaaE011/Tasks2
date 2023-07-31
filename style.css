@@ -1,0 +1,26 @@
+h1{
+    text-transform: uppercase;
+    color: white;
+    font-size: 3em;
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+div{
+    margin-top: 100px;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    background-color: black;
+    font-family: 'Libre Baskerville', serif;
+}
+#ii{
+    width: 100%;
+    border: 5px solid white;
+    margin-top: 10px;
+    
+}
+p{
+    color: white;
+}
